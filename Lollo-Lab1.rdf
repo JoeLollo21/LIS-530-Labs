@@ -1,0 +1,33 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="urn:isbn:9780393051049">
+        <dc:title>An illuminated life: Belle da Costa Greene's journey from prejudice to privilege</dc:title>
+        <dc:type>book</dc:type>
+        <dc:creator>Ardizzone, Heidi</dc:creator>
+        <dc:publisher>W.W. Norton &amp; Co</dc:publisher>
+        <dc:date>2007</dc:date>
+        <dc:identifier>ISBN 9780393051049</dc:identifier>
+        <dc:identifier>Z720.G83 A89 2007</dc:identifier>
+    </rdf:Description>
+    <rdf:Description rdf:about="urn:isbn:9781556432927">
+        <dc:title>The sun unwound: original texts from occupied America</dc:title>
+        <dc:type>book</dc:type>
+        <dc:creator>Dorn, Edward</dc:creator>
+        <dc:creator>Brotherston, Gordon</dc:creator>
+        <dc:publisher>North Atlantic Books</dc:publisher>
+        <dc:date>1999</dc:date>
+        <dc:identifier>ISBN 9781556432927</dc:identifier>
+        <dc:identifier>PN6110.P7 A467 1999</dc:identifier>
+    </rdf:Description>
+    <rdf:Description rdf:about="urn:isbn:9780670849703">
+        <dc:title>Collected fictions</dc:title>
+        <dc:type>book</dc:type>
+        <dc:creator>Borges, Jorge Luis</dc:creator>
+        <dc:creator>Hurley, Andrew</dc:creator>
+        <dc:publisher>Viking</dc:publisher>
+        <dc:date>1998</dc:date>
+        <dc:identifier>ISBN 9780670849703</dc:identifier>
+        <dc:identifier>PQ7797.B635 A24 1998</dc:identifier>
+    </rdf:Description>
+</rdf:RDF>
