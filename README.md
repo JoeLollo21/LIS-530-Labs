@@ -4,4 +4,5 @@ Under an [MIT License](https://opensource.org/licenses/MIT), the purpose is to s
 
 ## Index:
 - Lab 1: Introduction to Zotero (1/10/2023)
-- Lab 2: Zotero Catalogs & Metadata (1/20/2023)
+- Lab 2: Zotero Catalogs (1/20/2023)
+- Lab 3: Bibliography Construction with TeX
