@@ -6,3 +6,4 @@ Under an [MIT License](https://opensource.org/licenses/MIT), the purpose is to s
 - Lab 1: Introduction to Zotero (1/10/2023)
 - Lab 2: Catalogs and Metadata in Zotero (1/20/2023)
 - Lab 3: BibTeX and Bibliography Construction (2/2/2023)
+- Lab 4: PoolParty and the Dewey Decimal System's Catalog (2/9/2023)
