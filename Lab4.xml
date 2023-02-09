@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <rdf:Description rdf:about="http://uw.poolparty.biz/LIS5302023_lollo21/0">
+    <csw:hierarchyRoot rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</csw:hierarchyRoot>
+    <csw:hierarchyRootType rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+  <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#ConceptScheme"/>
+    <dcterms:creator rdf:resource="http://uw.poolparty.biz/user/lollo21"/>
+    <dcterms:title xml:lang="en">DDC</dcterms:title>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-02-09T21:51:02.423Z</dcterms:created>
+    <skos:hasTopConcept rdf:resource="http://uw.poolparty.biz/LIS5302023_lollo21/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://uw.poolparty.biz/LIS5302023_lollo21/1">
+  <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dcterms:creator rdf:resource="http://uw.poolparty.biz/user/lollo21"/>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-02-09T21:51:52.124Z</dcterms:created>
+    <skos:topConceptOf rdf:resource="http://uw.poolparty.biz/LIS5302023_lollo21/0"/>
+    <skos:prefLabel xml:lang="en">200 Religion</skos:prefLabel>
+    <skos:narrower rdf:resource="http://uw.poolparty.biz/LIS5302023_lollo21/2"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://uw.poolparty.biz/LIS5302023_lollo21/2">
+  <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dcterms:creator rdf:resource="http://uw.poolparty.biz/user/lollo21"/>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-02-09T21:52:33.044Z</dcterms:created>
+    <skos:prefLabel xml:lang="en">211 Concepts of God</skos:prefLabel>
+    <skos:narrower rdf:resource="http://uw.poolparty.biz/LIS5302023_lollo21/4"/>
+    <dcterms:contributor rdf:resource="http://uw.poolparty.biz/user/lollo21"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-02-09T22:01:18.362Z</dcterms:modified>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://uw.poolparty.biz/LIS5302023_lollo21/4">
+  <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dcterms:creator rdf:resource="http://uw.poolparty.biz/user/lollo21"/>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-02-09T21:52:57.181Z</dcterms:created>
+    <skos:prefLabel xml:lang="en">211.3 Theism</skos:prefLabel>
+    <skos:narrower rdf:resource="http://uw.poolparty.biz/LIS5302023_lollo21/5"/>
+    <skos:narrower rdf:resource="http://uw.poolparty.biz/LIS5302023_lollo21/6"/>
+    <skos:narrower rdf:resource="http://uw.poolparty.biz/LIS5302023_lollo21/7"/>
+    <dcterms:contributor rdf:resource="http://uw.poolparty.biz/user/lollo21"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-02-09T22:00:50.017Z</dcterms:modified>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://uw.poolparty.biz/LIS5302023_lollo21/5">
+  <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dcterms:creator rdf:resource="http://uw.poolparty.biz/user/lollo21"/>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-02-09T21:53:30.223Z</dcterms:created>
+    <skos:prefLabel xml:lang="en">211.32 Polytheism</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://uw.poolparty.biz/LIS5302023_lollo21/7">
+  <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dcterms:creator rdf:resource="http://uw.poolparty.biz/user/lollo21"/>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-02-09T21:54:12.074Z</dcterms:created>
+    <skos:prefLabel xml:lang="en">211.34 Monotheism</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://uw.poolparty.biz/LIS5302023_lollo21/6">
+  <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+    <dcterms:creator rdf:resource="http://uw.poolparty.biz/user/lollo21"/>
+    <dcterms:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2023-02-09T21:53:55.712Z</dcterms:created>
+    <skos:prefLabel xml:lang="en">211.33 Dualism</skos:prefLabel>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://uw.poolparty.biz/LIS5302023_lollo21/2">
+    <skos:broader rdf:resource="http://uw.poolparty.biz/LIS5302023_lollo21/1"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://uw.poolparty.biz/LIS5302023_lollo21/5">
+    <skos:broader rdf:resource="http://uw.poolparty.biz/LIS5302023_lollo21/4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://uw.poolparty.biz/LIS5302023_lollo21/6">
+    <skos:broader rdf:resource="http://uw.poolparty.biz/LIS5302023_lollo21/4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://uw.poolparty.biz/LIS5302023_lollo21/7">
+    <skos:broader rdf:resource="http://uw.poolparty.biz/LIS5302023_lollo21/4"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://uw.poolparty.biz/LIS5302023_lollo21/4">
+    <skos:broader rdf:resource="http://uw.poolparty.biz/LIS5302023_lollo21/2"/>
+  </rdf:Description>
+<xml>
